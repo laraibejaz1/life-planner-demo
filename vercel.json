@@ -1,6 +1,7 @@
 {
-  "buildCommand": "npm run build:demo",
-  "outputDirectory": "dist-demo",
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
   "headers": [{
     "source": "/(.*)",
