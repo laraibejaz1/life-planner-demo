@@ -1,0 +1,20 @@
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Secrets, local configuration, and source maps
+.env
+.env.*
+*.local
+*.map
+
+# Dependencies, logs, backups, and private planner packages
+node_modules/
+*.log
+*.bak
+*.backup
+Craftora-Signature-Life-Planner.html
+*.zip
